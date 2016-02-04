@@ -1,6 +1,6 @@
 # IconAssets
 
-拖入IconAssets中的Contents.json文件
+拖入AppIcon.appiconset中的Contents.json文件
 
 拖入设计好的Icon大图(jpg/png)
 
